@@ -78,3 +78,20 @@ body{
   background-position: center center;
   background-size: contain;
 }
+
+sgt {
+  display: inline-block;
+  padding: 10px;
+  border: solid 1px rgb(255, 157, 0);
+  background: rgb(255, 217, 0);
+  border-radius: 0.1em;
+  color: rgb(0, 0, 0);
+  width: 5.5em;
+  height: 1.2em;
+  text-transform: none;
+  border-bottom-width: 0.3em;
+  border-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+  font-family: monospace;
+  font-size: calc(11px + 2vw);
+}
